@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [x] An extra feature to remove the keyboard when the calculate button is removed.
+- [x] An extra feature to remove the keyboard when the calculate button is clicked.
 - [x] Included a feature to round tips.
 - [x] Included a feature to round the total amount.
 - [x] Included a feature to not round at all.
